@@ -8,7 +8,7 @@ Program ini memiliki kelas bernama `PetShop`, yang berfungsi untuk merepresentas
 **1. ID Produk**     : String yang berisi angka/huruf unik  
 **2. Nama Produk**   : String yang berisi nama produk  
 **3. Kategori**      : String yang berisi kategori produk  
-**4. Harga**         : Integer yang berisi harga produk (harus berupa bomor)  
+**4. Harga**         : Integer yang berisi harga produk (harus berupa nomor)  
 
 ## Alur Program
 
