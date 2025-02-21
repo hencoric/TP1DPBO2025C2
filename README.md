@@ -10,7 +10,7 @@ Program ini memiliki kelas bernama `PetShop`, yang berfungsi untuk merepresentas
 | **1.** | **ID Produk**     | yang berisi angka/huruf unik  |
 | **2.** | **Nama Produk**   | yang berisi nama produk      |
 | **3.** | **Kategori**      | yang berisi kategori produk  |
-| **4.** | **Harga**        | yang berisi harga produk (harus berupa nomor) |
+| **4.** | **Harga**        | yang berisi harga produk (harus berupa angka) |
 
 
 ## Alur Program
