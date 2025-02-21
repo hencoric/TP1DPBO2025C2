@@ -5,12 +5,12 @@ Saya Marco Henrik Abineno dengan NIM 2301093 mengerjakan evaluasi Latihan Modul 
 
 Program ini memiliki kelas bernama `PetShop`, yang berfungsi untuk merepresentasikan sebuah produk di dalam pet shop. Kelas ini memiliki beberapa atribut sebagai berikut :  
 
-```
-**1. ID Produk**     : Yang berisi angka/huruf unik  
-**2. Nama Produk**   : Yang berisi nama produk  
-**3. Kategori**      : Yang berisi kategori produk  
-**4. Harga**         : Yang berisi harga produk (harus berupa nomor)  
-```
+| **No** | **Atribut**     | **Deskripsi**                    |
+|--------|---------------|--------------------------------|
+| **1.** | ID Produk     | Yang berisi angka/huruf unik  |
+| **2.** | Nama Produk   | Yang berisi nama produk      |
+| **3.** | Kategori      | Yang berisi kategori produk  |
+| **4.** | Harga        | Yang berisi harga produk (harus berupa nomor) |
 
 
 ## Alur Program
