@@ -61,3 +61,17 @@ PetShop menggunakan beberapa menu, dimana user bisa memilih menu menggunakan nom
   
 ![py delete dan search](https://github.com/user-attachments/assets/03f40bd3-71a5-4fd6-b3ce-7b031263f4b9)
 
+## **Program Java**
+
+1. ADD
+
+![java add](https://github.com/user-attachments/assets/45f84d84-caeb-46fd-9de7-aa69fd587c4d)
+  
+2. UPDATE
+  
+![java update](https://github.com/user-attachments/assets/519ce3ac-93d0-4337-85a9-999b37575830)
+
+3. DELETE & SEARCH
+  
+![java delete dan search](https://github.com/user-attachments/assets/6cd69302-c6c6-4aac-b623-fb8344bd4d78)
+
