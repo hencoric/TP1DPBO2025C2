@@ -43,5 +43,21 @@ PetShop menggunakan beberapa menu, dimana user bisa memilih menu menggunakan nom
   
 ![DELETE   OUT](https://github.com/user-attachments/assets/dba983ff-5b2b-4db1-854f-ca66a1f9833b)
 
+4. SEARCH
 
-**PHP**  
+![CARI](https://github.com/user-attachments/assets/f1a71c4f-2bb0-463f-95bf-0491da95c996)
+  
+**Program Python**
+
+1. ADD
+
+![py add](https://github.com/user-attachments/assets/06878160-c3ae-4c77-a8e2-89ecaf6a9d11)
+  
+2. UPDATE
+  
+![py update](https://github.com/user-attachments/assets/679c01d2-aeab-4368-a079-d1e93921f4c9)
+
+3. DELETE & SEARCH
+  
+![py delete dan search](https://github.com/user-attachments/assets/03f40bd3-71a5-4fd6-b3ce-7b031263f4b9)
+
