@@ -116,4 +116,5 @@ Lalu data akan otomatis terhapus
 ![php search](https://github.com/user-attachments/assets/2d377f4c-76d4-4ab3-9512-1909dbfa9be3)
 
 Untuk Search, user bisa memasukkan nama pada form pencarian dengan catatan nama harus sesuai dan lengkap
+  
 **Contoh :** Pada barang "Kalung Kucing", program akan memberi data barang jika user mengetik "Kalung Kucing" bukan hanya "Kalung" ataupun "Kucing" saja.
