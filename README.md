@@ -28,14 +28,19 @@ PetShop menggunakan beberapa menu, dimana user bisa memilih menu menggunakan nom
 
 ## Dokumentasi
 
-Program C++
-
-**C++**
+**Program C++**
 
 1. ADD
 
 ![ADD](https://github.com/user-attachments/assets/04326016-345d-490a-aca6-fec3dc094948)
+  
+2. UPDATE
 
+![UPDATE](https://github.com/user-attachments/assets/0d0fbef0-51f3-4a8b-918b-757a227c26aa)
+
+3. DELETE
+  
+![DELETE   OUT](https://github.com/user-attachments/assets/dba983ff-5b2b-4db1-854f-ca66a1f9833b)
 
 
 **PHP**  
