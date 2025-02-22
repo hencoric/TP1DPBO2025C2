@@ -75,3 +75,26 @@ PetShop menggunakan beberapa menu, dimana user bisa memilih menu menggunakan nom
   
 ![java delete dan search](https://github.com/user-attachments/assets/6cd69302-c6c6-4aac-b623-fb8344bd4d78)
 
+## **Program PHP**
+
+![php tampilan awal tidak ada produk](https://github.com/user-attachments/assets/46621d9e-f599-4475-a029-53a3412c2fd7)
+
+Tampilan awal memperlihatkan bahwa belum ada data yang masuk
+
+1. ADD
+
+![php tambah data 1](https://github.com/user-attachments/assets/0d52e666-00ff-499f-a1a5-af7a3bd0c30e)
+
+Disini user bisa memasukkan data ke dalam form
+  
+![php tambah data 2](https://github.com/user-attachments/assets/89a066de-5e9e-443b-b4dc-1a232a3f0221)
+  
+Lalu data akan masuk ke dalam tabel beserta dengan foto-fotonya
+
+2. UPDATE
+  
+![java update](https://github.com/user-attachments/assets/519ce3ac-93d0-4337-85a9-999b37575830)
+
+3. DELETE & SEARCH
+  
+![java delete dan search](https://github.com/user-attachments/assets/6cd69302-c6c6-4aac-b623-fb8344bd4d78)
