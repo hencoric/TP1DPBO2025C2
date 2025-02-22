@@ -117,4 +117,4 @@ Lalu data akan otomatis terhapus
 
 Untuk Search, user bisa memasukkan nama pada form pencarian dengan catatan nama harus sesuai dan lengkap
   
-**Contoh :** Pada barang "Kalung Kucing", program akan memberi data barang jika user mengetik "Kalung Kucing" bukan hanya "Kalung" ataupun "Kucing" saja.
+**Contoh :** Pada barang "Kalung Lucu", program akan memberi data barang jika user mengetik "Kalung Lucu" bukan hanya "Kalung" ataupun "Lucu" saja.
