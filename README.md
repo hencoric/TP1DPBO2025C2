@@ -1,7 +1,7 @@
-## TP1DPBO2025C2
+# TP1DPBO2025C2
 Saya Marco Henrik Abineno dengan NIM 2301093 mengerjakan evaluasi Latihan Modul dalam mata kuliah Desain Pemrograman Berbasis Object untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Amin.
 
-## Desain Program
+# Desain Program
 
 Program ini memiliki kelas bernama `PetShop`, yang berfungsi untuk merepresentasikan sebuah produk di dalam pet shop. Kelas ini memiliki beberapa atribut sebagai berikut :  
 
@@ -14,7 +14,7 @@ Program ini memiliki kelas bernama `PetShop`, yang berfungsi untuk merepresentas
 | **5.** | **Foto Produk**        | yang berisi foto produk (khusus php) |
 
 
-## Alur Program
+# Alur Program
 
 PetShop menggunakan beberapa menu, dimana user bisa memilih menu menggunakan nomor yang sesuai.  
 
@@ -27,9 +27,9 @@ PetShop menggunakan beberapa menu, dimana user bisa memilih menu menggunakan nom
 | **5.** | **Search**  | User bisa mencari data produk berdasarkan nama |
 
 
-## Dokumentasi
+# Dokumentasi
 
-# **Program C++**
+## **Program C++**
 
 1. ADD
 
