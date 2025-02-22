@@ -93,7 +93,13 @@ Lalu data akan masuk ke dalam tabel beserta dengan foto-fotonya
 
 2. UPDATE
   
-![java update](https://github.com/user-attachments/assets/519ce3ac-93d0-4337-85a9-999b37575830)
+![php update data 1](https://github.com/user-attachments/assets/b8c1ef05-dbda-44a5-bcf2-7a5712f9fc7b)
+
+Untuk Update, user bisa menekan aksi **Edit** pada barang yang ingin di ubah, lalu mengisi bagian yang ingin di ubah
+
+![php update data 2](https://github.com/user-attachments/assets/466719b5-09fe-42cc-8aeb-1bd013771578)
+
+Ketika sudah ter-update data akan ter perbarui dalam tabel
 
 3. DELETE & SEARCH
   
