@@ -99,8 +99,21 @@ Untuk Update, user bisa menekan aksi **Edit** pada barang yang ingin di ubah, la
 
 ![php update data 2](https://github.com/user-attachments/assets/466719b5-09fe-42cc-8aeb-1bd013771578)
 
-Ketika sudah ter-update data akan ter perbarui dalam tabel
+Ketika sudah ter-update data akan terbarui dalam tabel
 
-3. DELETE & SEARCH
+3. DELETE
   
-![java delete dan search](https://github.com/user-attachments/assets/6cd69302-c6c6-4aac-b623-fb8344bd4d78)
+![php hapus satu](https://github.com/user-attachments/assets/f6827fea-2c7e-45e1-b8e4-535969efcd05)
+
+Untuk Delete, user bisa menekan aksi **Hapus** pada barang yang ingin di ubah, lalu program akan menanyakan apakah yakin untuk menghapus data. Jika ya pencet tombol **OK**
+
+![php hapus 2](https://github.com/user-attachments/assets/b6d9f8f1-f1dd-4336-8c6d-431a9bb87ca7)
+
+Lalu data akan otomatis terhapus
+
+4. SEARCH
+
+![php search](https://github.com/user-attachments/assets/2d377f4c-76d4-4ab3-9512-1909dbfa9be3)
+
+Untuk Search, user bisa memasukkan nama pada form pencarian dengan catatan nama harus sesuai dan lengkap
+**Contoh :** Pada barang "Kalung Kucing", program akan memberi data barang jika user mengetik "Kalung Kucing" bukan hanya "Kalung" ataupun "Kucing" saja.
