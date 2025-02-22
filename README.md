@@ -9,8 +9,9 @@ Program ini memiliki kelas bernama `PetShop`, yang berfungsi untuk merepresentas
 |--------|---------------|--------------------------------|
 | **1.** | **ID Produk**     | yang berisi angka/huruf unik  |
 | **2.** | **Nama Produk**   | yang berisi nama produk      |
-| **3.** | **Kategori**      | yang berisi kategori produk  |
-| **4.** | **Harga**        | yang berisi harga produk (harus berupa angka) |
+| **3.** | **Kategori Produk**      | yang berisi kategori produk  |
+| **4.** | **Harga Produk**        | yang berisi harga produk (harus berupa angka) |
+| **5.** | **Foto Produk**        | yang berisi foto produk (khusus php) |
 
 
 ## Alur Program
