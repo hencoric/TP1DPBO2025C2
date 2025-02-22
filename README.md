@@ -28,14 +28,14 @@ PetShop menggunakan beberapa menu, dimana user bisa memilih menu menggunakan nom
 
 ## Dokumentasi
 
-Program C++, Java dan Python memiliki output yang sama jadi dokumentasinya akan sama, namun PHP berbeda  
+Program C++
 
-**C++, Java, Python**  
+**C++**
 
+1. ADD
 
-![py add](https://github.com/user-attachments/assets/61d6b177-91b9-43e0-bd0f-61c7e45b05ce)
-![py update](https://github.com/user-attachments/assets/732cd130-5096-4bb7-9507-d2aff13830fc)
-![py delete dan search](https://github.com/user-attachments/assets/28ae70cf-7a36-4259-8d60-7ea8c258b437)
+![ADD](https://github.com/user-attachments/assets/04326016-345d-490a-aca6-fec3dc094948)
+
 
 
 **PHP**  
